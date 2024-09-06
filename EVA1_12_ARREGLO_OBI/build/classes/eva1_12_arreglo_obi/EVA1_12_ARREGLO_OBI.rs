@@ -1,0 +1,2 @@
+eva1_12_arreglo_obi.Persona
+eva1_12_arreglo_obi.EVA1_12_ARREGLO_OBI
